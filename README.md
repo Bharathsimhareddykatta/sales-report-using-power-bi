@@ -26,7 +26,8 @@
 </ol>
 
 <h2>📷 Dashboard Preview</h2>
-<p><em>Add a screenshot here once ready</em></p>
+<p><em> ![image](https://github.com/user-attachments/assets/80c645b3-cdf2-4485-a088-91361895da6a)
+ </em></p>
 
 <h2>🙋‍♂️ Author</h2>
 <p><strong>Bharath Simha Reddy</strong><br>
